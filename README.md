@@ -7,7 +7,7 @@ Stackmash - User monitoring notifications and logs. Stackmash gives you real-tim
 
 ### Download the Stackmash PHP file
 
-Download the Stackmash PHP file here: https://github.com/stackmash/stackmash-phpsimple, then move the file to your project where it can be accessed where needed.
+Download the Stackmash PHP file here: https://raw.githubusercontent.com/stackmash/stackmash-phpsimple/master/Stackmash.php, then move the file to your project where it can be accessed where needed.
 
 ### Start using Stackmash
 
